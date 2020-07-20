@@ -1,0 +1,9 @@
+Epoch 1 has finished, accuracy is : 83.69%
+Epoch 2 has finished, accuracy is : 86.7%
+Epoch 3 has finished, accuracy is : 88.24%
+Epoch 4 has finished, accuracy is : 88.27000000000001%
+Epoch 5 has finished, accuracy is : 88.35%
+Epoch 6 has finished, accuracy is : 88.42999999999999%
+Epoch 7 has finished, accuracy is : 88.32%
+Epoch 8 has finished, accuracy is : 88.5%
+Epoch 9 has finished, accuracy is : 88.56%
